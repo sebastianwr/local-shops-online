@@ -8,7 +8,7 @@ A list of local shops that can be supported online. Especially important in time
 
 | Shop | Website | Type | Notes |
 |------|---------|------|-------|
-|Weinladen|https://www.weinladen.de|Wine|also in Cologne|
+|Weinladen|https://www.weinladen.de|Wine|also in Hamburg|
 
 ## Hamburg
 
