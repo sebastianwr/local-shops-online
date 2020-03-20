@@ -19,4 +19,5 @@ A list of local shops that can be supported online. Especially important in time
 |Public Coffee Roasters|https://www.publiccoffeeroasters.com/shop/|Coffee, Tea||
 |Weinladen St. Pauli|https://www.weinladen.de|Wine|also in Cologne|
 |Winkel van Sinkel|https://winkelvansinkel.de/|Interior, Plants & Flowers|10% discount on vouchers|
+|woof & wiggle|https://www.woofandwiggle.com|Dog accessories||
 
